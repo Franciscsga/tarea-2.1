@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260401124752FX652L</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260401124752L1WZ9V</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Descripción de la situación de aprendizaje</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775037973510</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnfvs1yn-hdrem2k7h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SOS Emergencia en bicicleta. </pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SOS Emergencia en bicicleta. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SOS Emergencia en bicicleta. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfvs1yn-hdrem2k7h</odePageId>
+      <odeBlockId>block-1774891962283-88nzo9sof</odeBlockId>
+      <blockName>Situación de aprendizaje 6: SOS Emergencia en Bicicleta</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfvs1yn-hdrem2k7h</odePageId>
+          <odeBlockId>block-1774891962283-88nzo9sof</odeBlockId>
+          <odeIdeviceId>idevice-1774891962282-v1qlewinn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>SOS Emergencia en Bicicleta (Situación de Aprendizaje 6)</strong></em></p>
+<ol>
+<li> <strong>Etapa educativa y nivel</strong><br />- Ciclo Formativo de Grado Medio<br />- Familia profesional: Actividades Físicas y Deportivas<br />- Módulo: Guía de bicicleta.</li>
+<li><strong>Módulos implicados</strong><br />- Guía de bicicleta (principal)<br />- Técnicas de tiempo libre (de forma transversal, en la organización de la jornada) y Organización de Itinerarios (Creación del itinerario y plan b) </li>
+<li><strong>Agrupamientos</strong><br />- Trabajo individual (búsqueda de información, reflexión)<br />- Trabajo en pequeño grupo (infografía, podcast, diseño de la jornada)<br />- Gran grupo (simulaciones, exposiciones y actividades prácticas)<br /></li>
+<li><strong>Organización espacial</strong><br />- Aula ordinaria (explicaciones, diseño de productos)<br />- Aula TIC (búsqueda de información, creación digital)<br />- Espacios exteriores cercanos (simulaciones y actividades prácticas)<br />- Centro educativo (grabación del podcast y taller con agentes externos)<br /></li>
+<li><strong>Temporalización</strong><br />4 sesiones de 5 horas cada una<br />Total: 20 horas<br /></li>
+<li><strong>Productos finales del alumnado</strong><br />- Infografía: actuaciones ante un accidente en bicicleta<br />- Podcast: entrevistas e información sobre seguridad<br />- Diseño de una jornada: organización del Día de la Bicicleta con medidas de seguridad (primarias, secundarias y terciarias)<br /></li>
+<li><strong>Herramientas tecnológicas</strong><br />- Herramientas de diseño de infografías (Canva, Genially o similares)<br />- Aplicaciones de grabación y edición de audio (Audacity, Anchor, móvil)<br />- Dispositivos móviles y ordenadores<br />- Recursos digitales para búsqueda de información </li>
+</ol>
+<p>Esta Situación de Aprendizaje combina el trabajo práctico, la simulación de situaciones reales y la creación de productos aplicados, favoreciendo el desarrollo de competencias profesionales en contextos cercanos a la realidad laboral.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774891962282-v1qlewinn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>SOS Emergencia en Bicicleta (Situación de Aprendizaje 6)</strong></em></p>\n<ol>\n<li> <strong>Etapa educativa y nivel</strong><br />- Ciclo Formativo de Grado Medio<br />- Familia profesional: Actividades Físicas y Deportivas<br />- Módulo: Guía de bicicleta.</li>\n<li><strong>Módulos implicados</strong><br />- Guía de bicicleta (principal)<br />- Técnicas de tiempo libre (de forma transversal, en la organización de la jornada) y Organización de Itinerarios (Creación del itinerario y plan b) </li>\n<li><strong>Agrupamientos</strong><br />- Trabajo individual (búsqueda de información, reflexión)<br />- Trabajo en pequeño grupo (infografía, podcast, diseño de la jornada)<br />- Gran grupo (simulaciones, exposiciones y actividades prácticas)<br /></li>\n<li><strong>Organización espacial</strong><br />- Aula ordinaria (explicaciones, diseño de productos)<br />- Aula TIC (búsqueda de información, creación digital)<br />- Espacios exteriores cercanos (simulaciones y actividades prácticas)<br />- Centro educativo (grabación del podcast y taller con agentes externos)<br /></li>\n<li><strong>Temporalización</strong><br />4 sesiones de 5 horas cada una<br />Total: 20 horas<br /></li>\n<li><strong>Productos finales del alumnado</strong><br />- Infografía: actuaciones ante un accidente en bicicleta<br />- Podcast: entrevistas e información sobre seguridad<br />- Diseño de una jornada: organización del Día de la Bicicleta con medidas de seguridad (primarias, secundarias y terciarias)<br /></li>\n<li><strong>Herramientas tecnológicas</strong><br />- Herramientas de diseño de infografías (Canva, Genially o similares)<br />- Aplicaciones de grabación y edición de audio (Audacity, Anchor, móvil)<br />- Dispositivos móviles y ordenadores<br />- Recursos digitales para búsqueda de información </li>\n</ol>\n<p>Esta Situación de Aprendizaje combina el trabajo práctico, la simulación de situaciones reales y la creación de productos aplicados, favoreciendo el desarrollo de competencias profesionales en contextos cercanos a la realidad laboral.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfvs1yr-ya4336vn8</odePageId>
+  <odeParentPageId>page-mnfvs1yn-hdrem2k7h</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfvs1yr-ya4336vn8</odePageId>
+      <odeBlockId>block-1774889943884-38ut12iq3</odeBlockId>
+      <blockName>1. Intención educativa</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfvs1yr-ya4336vn8</odePageId>
+          <odeBlockId>block-1774889943884-38ut12iq3</odeBlockId>
+          <odeIdeviceId>idevice-1774889943880-uto6bdhtc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><em><strong>Justificación del desarrollo y el impacto esperado</strong></em><br />La presente Situación de Aprendizaje se fundamenta en la necesidad de dotar al alumnado del ciclo formativo de grado medio en Guía en el Medio Natural y de Tiempo Libre (especialidad en bicicleta) de competencias clave para la gestión eficaz de situaciones de emergencia durante la conducción de grupos.</p>
+<p>En el contexto profesional real, el guía de bicicleta no solo desempeña funciones de dinamización y orientación, sino que asume una responsabilidad directa sobre la seguridad del grupo. Las salidas en entornos naturales implican riesgos inherentes (caídas, averías, condiciones meteorológicas adversas, desorientación, problemas de salud), lo que hace imprescindible una preparación específica en la toma de decisiones bajo presión, la aplicación de protocolos de actuación y la conducción segura del grupo en escenarios críticos.</p>
+<p><em>El desarrollo de esta SdA permite al alumnado:</em></p>
+<ol>
+<li>Adquirir habilidades prácticas en la identificación y evaluación de riesgos.</li>
+<li>Aplicar procedimientos de primeros auxilios básicos y protocolos de emergencia.</li>
+<li>Desarrollar liderazgo, autocontrol y comunicación efectiva en situaciones de estrés.</li>
+<li>Fomentar la responsabilidad profesional y la anticipación ante posibles incidencias.</li>
+</ol>
+<p><em>Impacto esperado</em><br />Se espera que esta situación de aprendizaje tenga un impacto significativo tanto en el desarrollo profesional como personal del alumnado:</p>
+<ul>
+<li>A nivel profesional: mejora de la empleabilidad al adquirir competencias altamente valoradas en el sector (seguridad, gestión de grupos, resolución de problemas).<br /></li>
+<li>A nivel personal: aumento de la confianza, la autonomía y la capacidad de reacción ante situaciones imprevistas.<br /></li>
+<li>A nivel social: promoción de prácticas seguras en actividades físico-deportivas en el medio natural.<br /></li>
+<li>Asimismo, esta SdA contribuye a una formación más realista, práctica y alineada con las exigencias del entorno laboral, favoreciendo la transferencia directa de los aprendizajes a situaciones reales.</li>
+</ul>
+<p> <br /><em><strong>Relación de la SdA con los ODS y los Retos del Siglo XXI</strong></em><br />Esta Situación de Aprendizaje se alinea con diversos Objetivos de Desarrollo Sostenible (ODS) establecidos por la Naciones Unidas, así como con los principales retos del siglo XXI vinculados a la sostenibilidad, la salud y la seguridad.</p>
+<p><strong>-  ODS relacionados</strong></p>
+<ul>
+<li>ODS 3: Salud y Bienestar<br />La SdA promueve la actividad física segura y la prevención de accidentes, así como la capacitación en primeros auxilios, contribuyendo a garantizar una vida sana y fomentar el bienestar.</li>
+<li>ODS 4: Educación de Calidad<br />Se impulsa un aprendizaje significativo, competencial y aplicado a contextos reales, desarrollando habilidades prácticas esenciales para el futuro profesional del alumnado.</li>
+<li>ODS 8: Trabajo Decente y Crecimiento Económico<br />La formación en gestión de emergencias mejora la cualificación profesional del alumnado, facilitando su inserción laboral en el sector del turismo activo y el deporte en la naturaleza.</li>
+<li>ODS 13: Acción por el Clima<br />Al desarrollarse en entornos naturales, esta SdA fomenta la conciencia sobre los riesgos asociados a fenómenos meteorológicos y la necesidad de adaptación a condiciones cambiantes.<br /> <br />- <strong>Relación con los retos del siglo XXI</strong><br />Esta SdA responde a varios de los desafíos actuales:</li>
+<li>Gestión de la incertidumbre: el alumnado aprende a actuar ante situaciones imprevistas, desarrollando resiliencia y capacidad de adaptación.</li>
+<li>Seguridad en actividades al aire libre: cada vez más demandadas en la sociedad actual, requieren profesionales preparados.</li>
+<li>Aprendizaje basado en la experiencia: se prioriza el “aprender haciendo”, clave en los modelos educativos contemporáneos.</li>
+<li>Trabajo en equipo y liderazgo: competencias esenciales en contextos profesionales dinámicos.</li>
+<li>Sostenibilidad y uso responsable del medio natural: promoviendo prácticas seguras y respetuosas.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774889943880-uto6bdhtc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>Justificación del desarrollo y el impacto esperado</strong></em><br />La presente Situación de Aprendizaje se fundamenta en la necesidad de dotar al alumnado del ciclo formativo de grado medio en Guía en el Medio Natural y de Tiempo Libre (especialidad en bicicleta) de competencias clave para la gestión eficaz de situaciones de emergencia durante la conducción de grupos.</p>\n<p>En el contexto profesional real, el guía de bicicleta no solo desempeña funciones de dinamización y orientación, sino que asume una responsabilidad directa sobre la seguridad del grupo. Las salidas en entornos naturales implican riesgos inherentes (caídas, averías, condiciones meteorológicas adversas, desorientación, problemas de salud), lo que hace imprescindible una preparación específica en la toma de decisiones bajo presión, la aplicación de protocolos de actuación y la conducción segura del grupo en escenarios críticos.</p>\n<p><em>El desarrollo de esta SdA permite al alumnado:</em></p>\n<ol>\n<li>Adquirir habilidades prácticas en la identificación y evaluación de riesgos.</li>\n<li>Aplicar procedimientos de primeros auxilios básicos y protocolos de emergencia.</li>\n<li>Desarrollar liderazgo, autocontrol y comunicación efectiva en situaciones de estrés.</li>\n<li>Fomentar la responsabilidad profesional y la anticipación ante posibles incidencias.</li>\n</ol>\n<p><em>Impacto esperado</em><br />Se espera que esta situación de aprendizaje tenga un impacto significativo tanto en el desarrollo profesional como personal del alumnado:</p>\n<ul>\n<li>A nivel profesional: mejora de la empleabilidad al adquirir competencias altamente valoradas en el sector (seguridad, gestión de grupos, resolución de problemas).<br /></li>\n<li>A nivel personal: aumento de la confianza, la autonomía y la capacidad de reacción ante situaciones imprevistas.<br /></li>\n<li>A nivel social: promoción de prácticas seguras en actividades físico-deportivas en el medio natural.<br /></li>\n<li>Asimismo, esta SdA contribuye a una formación más realista, práctica y alineada con las exigencias del entorno laboral, favoreciendo la transferencia directa de los aprendizajes a situaciones reales.</li>\n</ul>\n<p> <br /><em><strong>Relación de la SdA con los ODS y los Retos del Siglo XXI</strong></em><br />Esta Situación de Aprendizaje se alinea con diversos Objetivos de Desarrollo Sostenible (ODS) establecidos por la Naciones Unidas, así como con los principales retos del siglo XXI vinculados a la sostenibilidad, la salud y la seguridad.</p>\n<p><strong>-  ODS relacionados</strong></p>\n<ul>\n<li>ODS 3: Salud y Bienestar<br />La SdA promueve la actividad física segura y la prevención de accidentes, así como la capacitación en primeros auxilios, contribuyendo a garantizar una vida sana y fomentar el bienestar.</li>\n<li>ODS 4: Educación de Calidad<br />Se impulsa un aprendizaje significativo, competencial y aplicado a contextos reales, desarrollando habilidades prácticas esenciales para el futuro profesional del alumnado.</li>\n<li>ODS 8: Trabajo Decente y Crecimiento Económico<br />La formación en gestión de emergencias mejora la cualificación profesional del alumnado, facilitando su inserción laboral en el sector del turismo activo y el deporte en la naturaleza.</li>\n<li>ODS 13: Acción por el Clima<br />Al desarrollarse en entornos naturales, esta SdA fomenta la conciencia sobre los riesgos asociados a fenómenos meteorológicos y la necesidad de adaptación a condiciones cambiantes.<br /> <br />- <strong>Relación con los retos del siglo XXI</strong><br />Esta SdA responde a varios de los desafíos actuales:</li>\n<li>Gestión de la incertidumbre: el alumnado aprende a actuar ante situaciones imprevistas, desarrollando resiliencia y capacidad de adaptación.</li>\n<li>Seguridad en actividades al aire libre: cada vez más demandadas en la sociedad actual, requieren profesionales preparados.</li>\n<li>Aprendizaje basado en la experiencia: se prioriza el “aprender haciendo”, clave en los modelos educativos contemporáneos.</li>\n<li>Trabajo en equipo y liderazgo: competencias esenciales en contextos profesionales dinámicos.</li>\n<li>Sostenibilidad y uso responsable del medio natural: promoviendo prácticas seguras y respetuosas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfvs1yr-0gl3cznog</odePageId>
+  <odeParentPageId>page-mnfvs1yn-hdrem2k7h</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfvs1yr-0gl3cznog</odePageId>
+      <odeBlockId>block-1774892104699-6wvpgn0dl</odeBlockId>
+      <blockName>Elementos curriculares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfvs1yr-0gl3cznog</odePageId>
+          <odeBlockId>block-1774892104699-6wvpgn0dl</odeBlockId>
+          <odeIdeviceId>idevice-1774892104697-7ru4pd95u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El siguiente cuadro resume de forma visual cómo se organiza esta Situación de Aprendizaje.</p>
+<p>En él se relacionan las competencias específicas, las competencias clave, los saberes básicos y los criterios de evaluación, mostrando qué se aprende, cómo se trabaja y cómo se evalúa.</p>
+<p>Cada fila representa un aspecto esencial de la actuación del guía en situaciones de emergencia, permitiendo entender de un vistazo la coherencia entre todos los elementos del currículo .</p>
+<p>Te ayudará a comprender mejor el sentido de las actividades y el objetivo final: actuar con seguridad y eficacia en situaciones reales.</p>
+<table border="1" style="width: 100.037%; background-color: #c2e0f4; height: 436.8px;">
+<tbody>
+<tr style="height: 56.8px;">
+<td style="width: 24.9907%; text-align: center; height: 56.8px;"><strong>Competencias específicas</strong></td>
+<td style="width: 24.9907%; text-align: center; height: 56.8px;"><strong>Competencias clave</strong></td>
+<td style="width: 24.9907%; text-align: center; height: 56.8px;"><strong>Saberes básicos</strong></td>
+<td style="width: 24.9907%; text-align: center; height: 56.8px;"><strong>Criterios de evaluación</strong></td>
+</tr>
+<tr style="height: 80.8px;">
+<td style="width: 24.9907%; height: 80.8px; background-color: #ecf0f1;"><strong><em>CE1. Gestionar situaciones de emergencia</em></strong></td>
+<td style="width: 24.9907%; height: 80.8px; background-color: #ecf0f1;">CPSAA, CE, CC</td>
+<td style="width: 24.9907%; height: 80.8px; background-color: #ecf0f1;">- Protocolos de actuación<br />- Identificación de riesgos<br />- Normativa de seguridad</td>
+<td style="width: 24.9907%; height: 80.8px; background-color: #ecf0f1;">- Define protocolos de actuación<br />- Identifica riesgos y aplica medidas preventivas</td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 24.9907%; height: 56.8px; background-color: #ecf0f1;"><strong><em>CE2. Coordinar y dirigir al grupo</em></strong></td>
+<td style="width: 24.9907%; height: 56.8px; background-color: #ecf0f1;">CPSAA, CC, CCL</td>
+<td style="width: 24.9907%; height: 56.8px; background-color: #ecf0f1;">- Organización de grupos<br />- Asignación de roles<br />- Control del grup</td>
+<td style="width: 24.9907%; height: 56.8px; background-color: #ecf0f1;">- Reagrupa y organiza al grupo<br />- Coordina recursos humanos y materiales</td>
+</tr>
+<tr style="height: 104.8px;">
+<td style="width: 24.9907%; height: 104.8px; background-color: #ecf0f1;"><em><strong>CE3. Aplicar técnicas de rescate y evacuación</strong></em></td>
+<td style="width: 24.9907%; height: 104.8px; background-color: #ecf0f1;">CPSAA, CE</td>
+<td style="width: 24.9907%; height: 104.8px; background-color: #ecf0f1;">- Técnicas de evacuación<br />- Primeros auxilios básicos<br />- Actuación ante averías</td>
+<td style="width: 24.9907%; height: 104.8px; background-color: #ecf0f1;">- Aplica técnicas de evacuación<br />- Resuelve averías en ruta</td>
+</tr>
+<tr style="height: 104.8px;">
+<td style="width: 24.9907%; height: 104.8px; background-color: #ecf0f1;"><em><strong>CE4. Tomar decisiones en entornos inciertos</strong></em></td>
+<td style="width: 24.9907%; height: 104.8px; background-color: #ecf0f1;">CPSAA, CE</td>
+<td style="width: 24.9907%; height: 104.8px; background-color: #ecf0f1;">- Evaluación del entorno<br />- Adaptación de itinerarios<br />- Gestión del riesgo</td>
+<td style="width: 24.9907%; height: 104.8px; background-color: #ecf0f1;">- Propone alternativas a la ruta<br />- Adapta la actuación ante condiciones adversas</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 24.9907%; height: 32.8px; background-color: #ecf0f1;"><em><strong>CE5. Comunicación en situaciones de emergencia</strong></em></td>
+<td style="width: 24.9907%; height: 32.8px; background-color: #ecf0f1;">CCL, CD, CPSAA</td>
+<td style="width: 24.9907%; height: 32.8px; background-color: #ecf0f1;">- Sistemas de comunicación<br />- Uso de GPS y móvil<br />- Transmisión de información</td>
+<td style="width: 24.9907%; height: 32.8px; background-color: #ecf0f1;">- Comunica eficazmente con el grupo<br />- Contacta con servicios de emergencia correctamente</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774892104697-7ru4pd95u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El siguiente cuadro resume de forma visual cómo se organiza esta Situación de Aprendizaje.</p>\n<p>En él se relacionan las competencias específicas, las competencias clave, los saberes básicos y los criterios de evaluación, mostrando qué se aprende, cómo se trabaja y cómo se evalúa.</p>\n<p>Cada fila representa un aspecto esencial de la actuación del guía en situaciones de emergencia, permitiendo entender de un vistazo la coherencia entre todos los elementos del currículo .</p>\n<p>Te ayudará a comprender mejor el sentido de las actividades y el objetivo final: actuar con seguridad y eficacia en situaciones reales.</p>\n<table border=\"1\" style=\"width: 100.037%; background-color: #c2e0f4; height: 436.8px;\">\n<tbody>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 24.9907%; text-align: center; height: 56.8px;\"><strong>Competencias específicas</strong></td>\n<td style=\"width: 24.9907%; text-align: center; height: 56.8px;\"><strong>Competencias clave</strong></td>\n<td style=\"width: 24.9907%; text-align: center; height: 56.8px;\"><strong>Saberes básicos</strong></td>\n<td style=\"width: 24.9907%; text-align: center; height: 56.8px;\"><strong>Criterios de evaluación</strong></td>\n</tr>\n<tr style=\"height: 80.8px;\">\n<td style=\"width: 24.9907%; height: 80.8px; background-color: #ecf0f1;\"><strong><em>CE1. Gestionar situaciones de emergencia</em></strong></td>\n<td style=\"width: 24.9907%; height: 80.8px; background-color: #ecf0f1;\">CPSAA, CE, CC</td>\n<td style=\"width: 24.9907%; height: 80.8px; background-color: #ecf0f1;\">- Protocolos de actuación<br />- Identificación de riesgos<br />- Normativa de seguridad</td>\n<td style=\"width: 24.9907%; height: 80.8px; background-color: #ecf0f1;\">- Define protocolos de actuación<br />- Identifica riesgos y aplica medidas preventivas</td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 24.9907%; height: 56.8px; background-color: #ecf0f1;\"><strong><em>CE2. Coordinar y dirigir al grupo</em></strong></td>\n<td style=\"width: 24.9907%; height: 56.8px; background-color: #ecf0f1;\">CPSAA, CC, CCL</td>\n<td style=\"width: 24.9907%; height: 56.8px; background-color: #ecf0f1;\">- Organización de grupos<br />- Asignación de roles<br />- Control del grup</td>\n<td style=\"width: 24.9907%; height: 56.8px; background-color: #ecf0f1;\">- Reagrupa y organiza al grupo<br />- Coordina recursos humanos y materiales</td>\n</tr>\n<tr style=\"height: 104.8px;\">\n<td style=\"width: 24.9907%; height: 104.8px; background-color: #ecf0f1;\"><em><strong>CE3. Aplicar técnicas de rescate y evacuación</strong></em></td>\n<td style=\"width: 24.9907%; height: 104.8px; background-color: #ecf0f1;\">CPSAA, CE</td>\n<td style=\"width: 24.9907%; height: 104.8px; background-color: #ecf0f1;\">- Técnicas de evacuación<br />- Primeros auxilios básicos<br />- Actuación ante averías</td>\n<td style=\"width: 24.9907%; height: 104.8px; background-color: #ecf0f1;\">- Aplica técnicas de evacuación<br />- Resuelve averías en ruta</td>\n</tr>\n<tr style=\"height: 104.8px;\">\n<td style=\"width: 24.9907%; height: 104.8px; background-color: #ecf0f1;\"><em><strong>CE4. Tomar decisiones en entornos inciertos</strong></em></td>\n<td style=\"width: 24.9907%; height: 104.8px; background-color: #ecf0f1;\">CPSAA, CE</td>\n<td style=\"width: 24.9907%; height: 104.8px; background-color: #ecf0f1;\">- Evaluación del entorno<br />- Adaptación de itinerarios<br />- Gestión del riesgo</td>\n<td style=\"width: 24.9907%; height: 104.8px; background-color: #ecf0f1;\">- Propone alternativas a la ruta<br />- Adapta la actuación ante condiciones adversas</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9907%; height: 32.8px; background-color: #ecf0f1;\"><em><strong>CE5. Comunicación en situaciones de emergencia</strong></em></td>\n<td style=\"width: 24.9907%; height: 32.8px; background-color: #ecf0f1;\">CCL, CD, CPSAA</td>\n<td style=\"width: 24.9907%; height: 32.8px; background-color: #ecf0f1;\">- Sistemas de comunicación<br />- Uso de GPS y móvil<br />- Transmisión de información</td>\n<td style=\"width: 24.9907%; height: 32.8px; background-color: #ecf0f1;\">- Comunica eficazmente con el grupo<br />- Contacta con servicios de emergencia correctamente</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfvs1ys-vj10xp52j</odePageId>
+  <odeParentPageId>page-mnfvs1yn-hdrem2k7h</odeParentPageId>
+  <pageName>3. Metodologías activas. </pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfvs1ys-vj10xp52j</odePageId>
+      <odeBlockId>block-1774892876455-nqx6gqf3t</odeBlockId>
+      <blockName>Metodologías activas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfvs1ys-vj10xp52j</odePageId>
+          <odeBlockId>block-1774892876455-nqx6gqf3t</odeBlockId>
+          <odeIdeviceId>idevice-1774892876453-o9530regs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente Situación de Aprendizaje se fundamenta en el uso de metodologías activas, tales como el Aprendizaje Basado en Problemas (ABP), el Aprendizaje Basado en Proyectos (ABP), el aprendizaje cooperativo y el aprendizaje experiencial mediante simulaciones y role-playing.</p>
+<p>Estas metodologías favorecen la implicación del alumnado, el desarrollo del pensamiento crítico y la aplicación práctica de los conocimientos en contextos reales, especialmente relevantes en la formación de guías en bicicleta</p>
+<p>Asimismo, su uso se justifica desde el enfoque del Diseño Universal para el Aprendizaje (DUA), al permitir:</p>
+<ul>
+<li>Ofrecer múltiples formas de implicación, aumentando la motivación a través de retos y situaciones reales.<br /></li>
+<li>Presentar la información mediante diversos formatos, facilitando la comprensión.<br /></li>
+<li>Proporcionar distintas formas de expresión del aprendizaje, a través de productos variados como la infografía, el podcast o el diseño de una jornada.</li>
+</ul>
+<p>De este modo, se garantiza una enseñanza inclusiva, flexible y adaptada a la diversidad del alumnado.</p>
+<p><br /></p>
+<table border="1" style="width: 100.037%; height: 356px; border-color: #000000; border-style: solid;">
+<tbody>
+<tr style="height: 32.8px;">
+<td style="width: 24.9538%; height: 32.8px; text-align: center; background-color: #c2e0f4; border-color: #000000; border-style: solid;"><strong>Sesión</strong></td>
+<td style="width: 24.9538%; height: 32.8px; text-align: center; background-color: #c2e0f4; border-color: #000000; border-style: solid;"><strong>¿Qué se hace?</strong></td>
+<td style="width: 24.9538%; height: 32.8px; text-align: center; background-color: #c2e0f4; border-color: #000000; border-style: solid;"><strong>Productos</strong></td>
+<td style="width: 24.9538%; height: 32.8px; text-align: center; background-color: #c2e0f4; border-color: #000000; border-style: solid;"><strong>Metodología</strong></td>
+</tr>
+<tr style="height: 224.8px;">
+<td style="width: 24.9538%; height: 224.8px; border-color: #000000; border-style: solid;">Sesión 1</td>
+<td style="width: 24.9538%; height: 224.8px; border-color: #000000; border-style: solid;">- Presentación de la SdA<br />- Análisis de accidentes reales<br />- Identificación de riesgos<br />- Inicio de la infografía</td>
+<td style="width: 24.9538%; height: 224.8px; border-color: #000000; border-style: solid;">Infografía (borrador)</td>
+<td style="width: 24.9538%; height: 224.8px; border-color: #000000; border-style: solid;">- Aprendizaje basado en problemas (ABP)<br />- Aprendizaje cooperativo</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;">Sesión 2</td>
+<td style="width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;">- Protocolos de actuación<br />- Simulación de emergencias (role-play)<br />- Diseño y grabación inicial del podcast</td>
+<td style="width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;">Podcast (inicio)</td>
+<td style="width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;">- Aprendizaje basado en proyectos (ABP)<br />- Role-playing</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;">Sesión 3</td>
+<td style="width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;">- Resolución de casos complejos<br />- Finalización de la infografía<br />- Grabación y edición del podcast<br />- Inicio de la jornada</td>
+<td style="width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;">Infografía (final)<br />Podcast (final)<br />Jornada (inicio)</td>
+<td style="width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;">- Aprendizaje basado en retos<br />- Trabajo cooperativo</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;">Sesión 4</td>
+<td style="width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;">- Diseño completo de la jornada<br />- Presentación de productos<br />- Evaluación y reflexión</td>
+<td style="width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;">Jornada (final)<br />Presentación fina</td>
+<td style="width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;">- Aprendizaje basado en proyectos (ABP)<br />- Evaluación formativa y coevaluación</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774892876453-o9530regs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente Situación de Aprendizaje se fundamenta en el uso de metodologías activas, tales como el Aprendizaje Basado en Problemas (ABP), el Aprendizaje Basado en Proyectos (ABP), el aprendizaje cooperativo y el aprendizaje experiencial mediante simulaciones y role-playing.</p>\n<p>Estas metodologías favorecen la implicación del alumnado, el desarrollo del pensamiento crítico y la aplicación práctica de los conocimientos en contextos reales, especialmente relevantes en la formación de guías en bicicleta</p>\n<p>Asimismo, su uso se justifica desde el enfoque del Diseño Universal para el Aprendizaje (DUA), al permitir:</p>\n<ul>\n<li>Ofrecer múltiples formas de implicación, aumentando la motivación a través de retos y situaciones reales.<br /></li>\n<li>Presentar la información mediante diversos formatos, facilitando la comprensión.<br /></li>\n<li>Proporcionar distintas formas de expresión del aprendizaje, a través de productos variados como la infografía, el podcast o el diseño de una jornada.</li>\n</ul>\n<p>De este modo, se garantiza una enseñanza inclusiva, flexible y adaptada a la diversidad del alumnado.</p>\n<p><br /></p>\n<table border=\"1\" style=\"width: 100.037%; height: 356px; border-color: #000000; border-style: solid;\">\n<tbody>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9538%; height: 32.8px; text-align: center; background-color: #c2e0f4; border-color: #000000; border-style: solid;\"><strong>Sesión</strong></td>\n<td style=\"width: 24.9538%; height: 32.8px; text-align: center; background-color: #c2e0f4; border-color: #000000; border-style: solid;\"><strong>¿Qué se hace?</strong></td>\n<td style=\"width: 24.9538%; height: 32.8px; text-align: center; background-color: #c2e0f4; border-color: #000000; border-style: solid;\"><strong>Productos</strong></td>\n<td style=\"width: 24.9538%; height: 32.8px; text-align: center; background-color: #c2e0f4; border-color: #000000; border-style: solid;\"><strong>Metodología</strong></td>\n</tr>\n<tr style=\"height: 224.8px;\">\n<td style=\"width: 24.9538%; height: 224.8px; border-color: #000000; border-style: solid;\">Sesión 1</td>\n<td style=\"width: 24.9538%; height: 224.8px; border-color: #000000; border-style: solid;\">- Presentación de la SdA<br />- Análisis de accidentes reales<br />- Identificación de riesgos<br />- Inicio de la infografía</td>\n<td style=\"width: 24.9538%; height: 224.8px; border-color: #000000; border-style: solid;\">Infografía (borrador)</td>\n<td style=\"width: 24.9538%; height: 224.8px; border-color: #000000; border-style: solid;\">- Aprendizaje basado en problemas (ABP)<br />- Aprendizaje cooperativo</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;\">Sesión 2</td>\n<td style=\"width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;\">- Protocolos de actuación<br />- Simulación de emergencias (role-play)<br />- Diseño y grabación inicial del podcast</td>\n<td style=\"width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;\">Podcast (inicio)</td>\n<td style=\"width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;\">- Aprendizaje basado en proyectos (ABP)<br />- Role-playing</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;\">Sesión 3</td>\n<td style=\"width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;\">- Resolución de casos complejos<br />- Finalización de la infografía<br />- Grabación y edición del podcast<br />- Inicio de la jornada</td>\n<td style=\"width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;\">Infografía (final)<br />Podcast (final)<br />Jornada (inicio)</td>\n<td style=\"width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;\">- Aprendizaje basado en retos<br />- Trabajo cooperativo</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;\">Sesión 4</td>\n<td style=\"width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;\">- Diseño completo de la jornada<br />- Presentación de productos<br />- Evaluación y reflexión</td>\n<td style=\"width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;\">Jornada (final)<br />Presentación fina</td>\n<td style=\"width: 24.9538%; height: 32.8px; border-color: #000000; border-style: solid;\">- Aprendizaje basado en proyectos (ABP)<br />- Evaluación formativa y coevaluación</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfvs1ys-ugcdws7yc</odePageId>
+  <odeParentPageId>page-mnfvs1yn-hdrem2k7h</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfvs1ys-ugcdws7yc</odePageId>
+      <odeBlockId>block-1774896012098-53hdbjbh1</odeBlockId>
+      <blockName>Relación con los programas del centro</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfvs1ys-ugcdws7yc</odePageId>
+          <odeBlockId>block-1774896012098-53hdbjbh1</odeBlockId>
+          <odeIdeviceId>idevice-1774896012096-bxas7d8pc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje se vincula con distintos programas del centro de forma práctica y aplicada:</p>
+<ul>
+<li><strong>PLEI:</strong> búsqueda, selección y transformación de información en la infografía y el podcast.<br /></li>
+<li><strong>PDC</strong>: uso de herramientas digitales para crear la infografía y grabar/editar el podcast.<br /></li>
+<li><strong>PAD:</strong> diversidad de actividades y productos que permiten la participación de todo el alumnado.<br /></li>
+<li><strong>Plan de Convivencia</strong>: trabajo en equipo, responsabilidad y actuación en situaciones de emergencia.<br /></li>
+<li><strong>Plan de Salud y Bienestar:</strong> promoción de la seguridad y prevención de riesgos en actividades en bicicleta.</li>
+</ul>
+<p>👉 De este modo, el aprendizaje conecta con diferentes ámbitos del centro y con situaciones reales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774896012096-bxas7d8pc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje se vincula con distintos programas del centro de forma práctica y aplicada:</p>\n<ul>\n<li><strong>PLEI:</strong> búsqueda, selección y transformación de información en la infografía y el podcast.<br /></li>\n<li><strong>PDC</strong>: uso de herramientas digitales para crear la infografía y grabar/editar el podcast.<br /></li>\n<li><strong>PAD:</strong> diversidad de actividades y productos que permiten la participación de todo el alumnado.<br /></li>\n<li><strong>Plan de Convivencia</strong>: trabajo en equipo, responsabilidad y actuación en situaciones de emergencia.<br /></li>\n<li><strong>Plan de Salud y Bienestar:</strong> promoción de la seguridad y prevención de riesgos en actividades en bicicleta.</li>\n</ul>\n<p>👉 De este modo, el aprendizaje conecta con diferentes ámbitos del centro y con situaciones reales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775038136556-korkp9609</odePageId>
+  <odeParentPageId>page-mnfvs1yn-hdrem2k7h</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775038136556-korkp9609</odePageId>
+      <odeBlockId>block-1775038138857-qsms0bbho</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775038136556-korkp9609</odePageId>
+          <odeBlockId>block-1775038138857-qsms0bbho</odeBlockId>
+          <odeIdeviceId>idevice-1775038138856-esldj48rh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta Situación de Aprendizaje se plantean actividades directamente vinculadas con los productos finales y con un enfoque práctico y realista:</p>
+<ul>
+<li><strong>Grabación del podcast con participación externa (actividad complementaria)</strong><br />Se realizará dentro del horario lectivo, contando con la colaboración de profesionales (servicios de emergencia, seguridad, etc.), lo que permitirá al alumnado trabajar en un contexto real y mejorar la calidad del producto final.<br /> <br /></li>
+<li><strong>Taller de primeros auxilios integrado en role-playing (actividad complementaria</strong>)<br />Desarrollado en el aula con la participación de personal sanitario del hospital de Mieres, donde el alumnado pondrá en práctica la actuación ante emergencias mediante simulaciones reales.<br /> <br /></li>
+<li><strong>Organización del Día de la Bicicleta (actividad extraescolar</strong>)<br />El alumnado diseñará y aplicará medidas de seguridad (primarias, secundarias y terciarias) en una jornada real o simulada, asumiendo un papel activo en la planificación y desarrollo de la actividad.</li>
+</ul>
+<p>Estas actividades permiten trasladar el aprendizaje al entorno real, reforzando la adquisición de competencias profesionales a través de la práctica, la colaboración con agentes externos y la aplicación directa de los conocimientos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775038138856-esldj48rh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta Situación de Aprendizaje se plantean actividades directamente vinculadas con los productos finales y con un enfoque práctico y realista:</p>\n<ul>\n<li><strong>Grabación del podcast con participación externa (actividad complementaria)</strong><br />Se realizará dentro del horario lectivo, contando con la colaboración de profesionales (servicios de emergencia, seguridad, etc.), lo que permitirá al alumnado trabajar en un contexto real y mejorar la calidad del producto final.<br /> <br /></li>\n<li><strong>Taller de primeros auxilios integrado en role-playing (actividad complementaria</strong>)<br />Desarrollado en el aula con la participación de personal sanitario del hospital de Mieres, donde el alumnado pondrá en práctica la actuación ante emergencias mediante simulaciones reales.<br /> <br /></li>\n<li><strong>Organización del Día de la Bicicleta (actividad extraescolar</strong>)<br />El alumnado diseñará y aplicará medidas de seguridad (primarias, secundarias y terciarias) en una jornada real o simulada, asumiendo un papel activo en la planificación y desarrollo de la actividad.</li>\n</ul>\n<p>Estas actividades permiten trasladar el aprendizaje al entorno real, reforzando la adquisición de competencias profesionales a través de la práctica, la colaboración con agentes externos y la aplicación directa de los conocimientos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775038248092-mabne7rlu</odePageId>
+  <odeParentPageId>page-mnfvs1yn-hdrem2k7h</odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775038248092-mabne7rlu</odePageId>
+      <odeBlockId>block-1775038249564-8ffl1imgp</odeBlockId>
+      <blockName>Atribución</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775038248092-mabne7rlu</odePageId>
+          <odeBlockId>block-1775038249564-8ffl1imgp</odeBlockId>
+          <odeIdeviceId>idevice-1775038249562-516x0tswl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%; height: 299.2px;">
+<tbody>
+<tr style="height: 56.8px;">
+<td style="width: 23.4533%; border-color: #000000; border-style: double; height: 56.8px; background-color: #c2e0f4;"><strong>Título</strong></td>
+<td style="width: 76.6907%; border-color: #000000; border-style: double; height: 56.8px;">SOS Emergencia en Bicicleta (Manual situación de aprendizaje 6)</td>
+</tr>
+<tr style="height: 152.8px;">
+<td style="width: 23.4533%; border-color: #000000; border-style: double; height: 152.8px; background-color: #c2e0f4;"><strong>Descripción</strong></td>
+<td style="width: 76.6907%; border-color: #000000; border-style: double; height: 152.8px;">Recurso didáctico orientado a la formación del alumnado en la gestión de emergencias durante rutas en bicicleta. Incluye contenidos sobre prevención de riesgos, actuación ante accidentes, conducción segura de grupos y elaboración de productos aplicados como infografías, podcast y diseño de una jornada ciclista.</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 23.4533%; border-color: #000000; border-style: double; height: 32.8px; background-color: #c2e0f4;"><strong>Autoría</strong></td>
+<td style="width: 76.6907%; border-color: #000000; border-style: double; height: 32.8px;">Francisco Serrano García de Dionisio</td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 23.4533%; border-color: #000000; border-style: double; height: 56.8px; background-color: #c2e0f4;"><strong>Licencia</strong></td>
+<td style="width: 76.6907%; border-color: #000000; border-style: double; height: 56.8px;">Creative Commons: <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="">Reconocimiento - Compartir Igual 4.0</a></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775038249562-516x0tswl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%; height: 299.2px;\">\n<tbody>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 23.4533%; border-color: #000000; border-style: double; height: 56.8px; background-color: #c2e0f4;\"><strong>Título</strong></td>\n<td style=\"width: 76.6907%; border-color: #000000; border-style: double; height: 56.8px;\">SOS Emergencia en Bicicleta (Manual situación de aprendizaje 6)</td>\n</tr>\n<tr style=\"height: 152.8px;\">\n<td style=\"width: 23.4533%; border-color: #000000; border-style: double; height: 152.8px; background-color: #c2e0f4;\"><strong>Descripción</strong></td>\n<td style=\"width: 76.6907%; border-color: #000000; border-style: double; height: 152.8px;\">Recurso didáctico orientado a la formación del alumnado en la gestión de emergencias durante rutas en bicicleta. Incluye contenidos sobre prevención de riesgos, actuación ante accidentes, conducción segura de grupos y elaboración de productos aplicados como infografías, podcast y diseño de una jornada ciclista.</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 23.4533%; border-color: #000000; border-style: double; height: 32.8px; background-color: #c2e0f4;\"><strong>Autoría</strong></td>\n<td style=\"width: 76.6907%; border-color: #000000; border-style: double; height: 32.8px;\">Francisco Serrano García de Dionisio</td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 23.4533%; border-color: #000000; border-style: double; height: 56.8px; background-color: #c2e0f4;\"><strong>Licencia</strong></td>\n<td style=\"width: 76.6907%; border-color: #000000; border-style: double; height: 56.8px;\">Creative Commons: <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" title=\"\">Reconocimiento - Compartir Igual 4.0</a></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775038248092-mabne7rlu</odePageId>
+      <odeBlockId>block-1775038528733-myjxgxgig</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775038248092-mabne7rlu</odePageId>
+          <odeBlockId>block-1775038528733-myjxgxgig</odeBlockId>
+          <odeIdeviceId>idevice-1775038528730-ejha5hay</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
